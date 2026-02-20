@@ -20,8 +20,8 @@ const Dial = () => {
       }}
       
       viewport={{ once: false }}
-			 className="bg-green-500 size-20 md:hidden rounded-full fixed bottom-5 left-1/3 translate-x-1/3 flex items-center justify-center">
-				<a href="tel:2348158255799"><Phone/></a>
+			 className="bg-green-700 size-20 md:hidden rounded-full fixed bottom-5 left-1/3 translate-x-1/3 flex items-center justify-center">
+				<a href="tel:+2348158255799"><Phone/></a>
 			</motion.div>
 		</>
 	);
